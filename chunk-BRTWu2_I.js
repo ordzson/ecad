@@ -1,0 +1,1 @@
+var t=`Centro Evangelístico`;function o(r){return r?.lugarServicio.trim()||`Centro Evangelístico`}export{t as n,o as t};
